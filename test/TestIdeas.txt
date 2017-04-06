@@ -1,0 +1,63 @@
+4/5/2017
+False Clichés and Weak Advice (Noise of the Worst Kind)
+The world is filled with ideas that are self-defeating. I'm going to list some of these things and write about why I think it's false and what to do instead.
+	1. Follow Your Passion - If I followed my passion I'd sleep in until 10 AM every day and do nothing but watch movies, TV Shows, and baseball. That wouldn't be the best way to waste a life. Find some things you can tolerate and get phenomenal at them.
+	2. Believe in Yourself - At the surface this is decent advice. We all should have confidence in who we are but this confidence has to be earned through actually building one's skillset. It's hard to believe in yourself without any skills, but all too often people do.
+	3. Buy This for Happiness - Any advertisement that says to buy something in order to achieve happiness is a lie. You don't need anything to be happy. In fact, you'll probably be happier if you didn't have whatever the marketers are peddling.
+	4. Seek Comfort - Being comfortable is a momentary pleasure. It feels good while you're comfortable but it makes the uncomfortable times even harder. Seeking out the discomfort, getting comfortable with it, is one of the best skills a person can get.
+	5. The World is Just - A lot of the things that happen in the world are out of your control. Sometimes this will work in your favor, other times it will not. The world isn't fair or just because there's nothing you can do to change what's outside your control. Let go of the things beyond your control.
+	6. People Get What They Deserve - Here's a mathematical proof: Everybody deserves to be happy, not everyone is happy, therefore people don't get what they deserve. That's a bit of a joke but everyone does deserve to be happy, but since what makes one person happy could make another person unhappy not everyone can actually be happy. So maybe we should rethink what happiness is and by association what we deserve. 
+	7. The President will Make Your Life Better - I'll tell you a secret, the president isn't going to do anything for you that moves the needle too far one way or the other. Yeah, you may be content with the result of an election but once the fanfare is over and the person has been sworn in, you're still going to be living your life. Don't put your problems on someone like a president or government official. You gotta be proactive fix your problems yourself. Don't wait for a miracle, make one happen yourself.
+	8. Being Popular/Rich is Great - People who are popular or rich have some advantages, this is true, but they have to face the same realities that everyone else does. At the end of the day, we all primarily eat, sleep, and live. At the end of the day, being rich or popular isn't going to make someone happy. It all depends on one's outlook and that's something that can be fixed without having a dime or a follower in the world.
+	9. Bigger is Better - A bigger cup of bad coffee isn't better than a small cup of great espresso.
+	10. Be Yourself - For the most part, it's going to be independent and passionately do what you do to express yourself. There is always something we can make better about our self. Chances are, if you don't like a part of yourself most other people aren't going to like it either. Sometimes we pick up bad habits that make our self unattractive. It happens to everybody. If we can identify and fix these shortcomings there's no reason to keep being "yourself" as long as you're still doing these things. 
+
+[life]
+
+4/4/2017
+JavaScript Projects I Can Work On
+In the same vein as yesterday's list, here are some JavaScript projects I can hack on to improve my skills. These don't have to be highly original, they are only meant to build the skill set. If any of them can be monetized that is great and a product of the process working.
+	1. Idealistz Front End
+	2. Web Chess Board - The first step would be to make the board, then the pieces, then define the rules, then allow two human players to use the board. This would be an amazing experience. Your JS and CSS skills would improve exponentially.
+	3. Build a Simple Form Using React - Just a simple data entry form, start small and learn from this. How about a form to subscribe to a Dev-eryday Newsletter!
+	4. Play with Animation Libraries - Get familiar with some of the popular JS animation libraries. Adding little features like that to a site help your application stand out from the pack.
+	5. Stock Watcher - Page where you can enter your stocks and the site will fetch the latest price and the +- for the day. This would use React.
+	6. Idealistz App - Use React Native to develop a native mobile experience for generating idealistz.
+	7. Generic Form Builder - Tool to build generic forms with multiple forms of data capture. The builder would build json schemas for how data should be accepted based on the form that users create.
+	8. Time Left Visualization - Single page that would break down time left in the week, month, year, life, etc. It'd be kind of like the post "On the Tail End" but would be generated automatically based on some user defined parameters.
+	9. Book List - Users can generate a list of books. The site would fetch the number of pages and do calculations based on the number of pages. You read X pages or you should read X pages to finish this set of books by date Z.
+	10. Boring Browser Game - The game takes place on a small window and calculates the coordinates of an explosion. The user guesses where the explosion will occur. Users get points based on the proximity of where they predict it will hit. 
+	
+	[JavaScript]
+
+4/3/2017
+Applications I Can Build with Elixir
+I'm learning Elixir and the best way to really learn the language is to use it. Here are some applications/projects I can do to improve at it.
+	1. Automated Program to Download Baseball Data - This could be stats, game scores, anything. Build something on a schedule that gets baseball data.
+	2. Build a Tweetbot - This is a lot like the example from the Elixir introduction from pluralsight. Build something that can send random tweets. Maybe have it analyze the tweets of a user and have it write a tweet as them.
+	3. Build a Real-Time System to Sync Files On Your Networked PCs
+	4. Use Phoenix to Build a Simple Site
+	5. Use Phoenix to Build a Quiz Website - Could be used a skeleton for satjump/actjump.
+	6. Create a Intro to Functional Programming Repo - Use all the best techniques from functional program. Write clean and standards compliant Elixir.
+	7. Nightly Web Feed - Provided a list of sites, the tool will download all new posts made to the site. The tool will output json data. (You'll have to build a serverless JavaScript app that can parse the JSON and display it in a readable manner.)
+	8. OOP vs. FP Repo - Develop a solution using C# and OOP and then develop code to solve the same problem using Elixir and FP. Write about the differences, similarities, and remark about the pros and cons of each style.
+	9. Test Popular Hex Libraries in a Repo - Try out a bunch of different Hex libraries. Get inspired by the community.
+	10. Build an Email Notification Program - Program will email me on a schedule and ask me specific things that I tell it to.
+
+[elixir]
+
+4/2/2017
+What I'd Do If I Had to Restart Completely
+Assuming I had to completely restart from a blank slate, these are the steps I'd take and advice I'd give to myself. In the scenario I don't know anything, all I have is this list from the oracle (my current self). I assume that I can read, I know basic math, and have a decent level of interpersonal skills.
+	1. Find a Place to Stay - I'm going to need a place to stay. Find a cheap place surrounded by people who are interesting and doing great things if possible. The people you are around will have a big impact on who you become.
+	2. Find a Way to Pay for Essential Things - Essential things are food, shelter, simple clothes, and tools required to support skill acquisition.
+	3. Pick a Skill to Master, Get Good At It - Find a skill, get as good as you can at it. Try to pick something others are willing to pay for. Commit to this skill. Whatever happens you'll always have this skill and all effort invested in it will be time well spent. You want to be able to get this skill good enough to take care of number 2 as soon as possible. 
+	4. Pick Another Complementary Skill, Get Good At It - This skill doesn't have to be something that others will pay for but does have to be one that you can apply on top of the skill from number 3. 
+	5. Put All Your Work Out in the Open - Share the things you are doing. Most people won't care what you are doing or what you're creating; that's fine. Having this work will be a great base of work when people do get interested. This will also help you stay committed to the process.
+	6. Connect with Others Doing Similar Things - Belong to the community is a good way to advance quicker. This will provide a network of contacts that open doors to opportunity. Even better is creating opportunities for others!
+	7. Want Little, Give A Lot - The less things you require the more agile you'll be. The more you give the more value you'll create.
+	8. Create Ideas Every Day - Every idea you create has potential to be great.
+	9. Stick to Your Goals - Push through obstacles and stay determined.
+	10. Read and Learn as Much as Possible - Everything you learn can impact your world view. The more you know the more opportunities live will offer you.
+
+[life]

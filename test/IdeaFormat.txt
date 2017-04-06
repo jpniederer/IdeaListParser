@@ -1,0 +1,22 @@
+Date (MM/dd/YYYY)
+\n
+Title
+\n
+Description
+\n
+#. Idea - Optional text
+\n
+#. Idea - Optional text
+\n
+...
+...
+#. Idea - Optional text
+\n
+[tag] (optional)
+
+Date
+....
+
+A date means we are at a new IdeaList. The title is on the next line followed by the description. Ideas follow from there. Finally, we have the optional bracketed tag.
+
+The Idea needs to be parsed out. Pull out the number, the idea, and the text.
