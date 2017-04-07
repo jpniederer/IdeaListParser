@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace IdealistParser
 {
@@ -19,6 +20,24 @@ namespace IdealistParser
         public void AddIdea(Idea idea)
         {
             Ideas.Add(idea);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine(ListDate.Date.ToString());
+            sb.AppendLine(Title);
+            sb.AppendLine(Description);
+            
+            foreach (var idea in Ideas)
+            {
+                sb.AppendLine(idea.ToString());
+            }
+
+            sb.AppendLine(Tag);
+
+            return sb.ToString();
         }
     }
 }

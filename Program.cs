@@ -15,8 +15,14 @@ namespace IdealistParser
         static void PrintFileText(string filePath)
         {
             ReadIdeaText rit = new ReadIdeaText(filePath);
+            string[] lines = rit.FileContents.Split('\n');
 
-            Console.WriteLine(rit.FileContents);
+            LineProcessor lp = new LineProcessor(lines);
+
+            foreach (var ideaList in lp.IdeaLists)
+            {
+                Console.WriteLine(ideaList.ToString());
+            }
         }
     }
 }
