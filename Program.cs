@@ -6,8 +6,9 @@ namespace IdealistParser
     {
         static void Main(string[] args)
         {
-            PrintFileText("/Users/niederer/github/IdeaListParser/test/TestIdeas.txt");
-            
+            PrintFileText("C:/Users/joshu/github/IdeaListParser/test/TestIdeas.txt");
+            //PrintFileText("/Users/niederer/github/IdeaListParser/test/TestIdeas.txt");
+
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
