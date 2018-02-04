@@ -1,4 +1,5 @@
 ﻿using System;
+using IdealistProcessing.Processing;
 
 namespace IdealistParser
 {

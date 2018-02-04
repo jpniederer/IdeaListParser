@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeaListParser", "IdeaListParser.csproj", "{2346BB62-DD16-4DDE-A56C-CC7A649EAED6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdeaListProcessing", "..\IdeaListProcessing\IdeaListProcessing.csproj", "{DC99BA0B-A136-4F93-8E1A-823ACC87FF5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2346BB62-DD16-4DDE-A56C-CC7A649EAED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2346BB62-DD16-4DDE-A56C-CC7A649EAED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2346BB62-DD16-4DDE-A56C-CC7A649EAED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC99BA0B-A136-4F93-8E1A-823ACC87FF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC99BA0B-A136-4F93-8E1A-823ACC87FF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC99BA0B-A136-4F93-8E1A-823ACC87FF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC99BA0B-A136-4F93-8E1A-823ACC87FF5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
